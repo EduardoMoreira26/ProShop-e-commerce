@@ -40,8 +40,8 @@ function ProductScreen({ match }: any) {
                 <Col>
                   Price:
                 </Col>
-                <Col>
                   <strong>${product?.price}</strong>
+                <Col>
                 </Col>
               </Row>
             </ListGroup.Item>
